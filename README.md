@@ -15,7 +15,7 @@
 ```
 
 git --version
-(A partir daqui voce ja deve ger uma conta criada no GitHub)
+(A partir daqui voce ja deve ter uma conta criada no GitHub)
 git config --global user.name "Nome de usuario"
 git config --global user.email "Email utilizado"
 ssh keygen (Criador de senha)
@@ -27,7 +27,7 @@ cd .. (Sair da pasta)
 
 ```
 
-### Comandos Administrativos do GIT
+### Comandos Administrativos do GIT no Windows
 
 ```
 git init
