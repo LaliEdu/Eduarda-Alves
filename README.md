@@ -3,7 +3,7 @@
 ## CAPITULO 1 - Configuração do git no computador
 ### Instalação do Git
 <p align="center">
-<img src="" alt= width="">
+<img src="Img/Captura de tela 2025-01-22 103825.png"  width="400">
   <a href= "https://git-scm.com/downloads/win" target="_blank">Download do GIT</a>
   </p>
 
@@ -34,7 +34,8 @@ git push -u origin master
 ### 
 ## CAPITULO 2 - Criando repositorio no GIT
 <img src="Img/Captura de tela 2025-01-22 112400.png" alt ="Entre na opção 'Repositorios' e clique 'New'" width="400">
-```
+
+<br>
 
 <img src="Img/Captura de tela 2025-01-22 112538.png" alt ="Siga as instruções e preencha conforme sua preferência" width="400">
 ###
@@ -43,12 +44,12 @@ git push -u origin master
 ## CAPITULO 3 - Subindo arquivos no GIT
 ###
 ```
- git reset
- git status 
- git add .
- git status
- git commit -m "Primeiro Commit"
- git branch
- git push -u origin master
- ls
+ `git reset`
+ `git status`
+ `git add .`
+ `git status
+ `git commit -m "Primeiro Commit"``
+ `git branch`
+ `git push -u origin master`
+ `ls`
 ```
