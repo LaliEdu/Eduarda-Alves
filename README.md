@@ -16,9 +16,9 @@ git config --global user.name "Nome de usuario"
 git config --global user.email "Email utilizado"
 ssh keygen (Criador de senha)
 ls (Ver pastas existentes)
-cd .\Nome da pasta\ (Entra na pasta)
+cd .\Nome da pasta\ (Entra na pasta em que está seu codigo)
 ls
-cat
+cat .ssh/id_  .pub
 cd .. (Sair da pasta)
 
 ```
