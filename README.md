@@ -4,7 +4,8 @@
 ### Instalação do Git
 <p align="center">
 <img src="Img/Captura de tela 2025-01-22 103825.png"  width="400">
-  <a href= "https://git-scm.com/downloads/win" target="_blank">Download do GIT</a>
+  <a href= "https://git-scm.com/downloads/win" 
+  target="_blank">Download do GIT</a>
   </p>
 
 ### No terminal do computador
@@ -25,6 +26,7 @@ cd .. (Sair da pasta)
 ### Comandos Administrativos do GIT
 
 `
+git init
 git status
 git add index.html or git add .
 git commit -m "Mensagem do desenvolvedor" ex:"Update file README"
@@ -34,22 +36,21 @@ git push -u origin master
 ### 
 ## CAPITULO 2 - Criando repositorio no GIT
 <img src="Img/Captura de tela 2025-01-22 112400.png" alt ="Entre na opção 'Repositorios' e clique 'New'" width="400">
-<p>
 
- <P>
+<br>
+
 <img src="Img/Captura de tela 2025-01-22 112538.png" alt ="Siga as instruções e preencha conforme sua preferência" width="400">
-###
+
 ###
 
 ## CAPITULO 3 - Subindo arquivos no GIT
 ###
-```
- ``git reset``
- ``git status``
- ``git add .``
- ``git status
- ``git commit -m "Primeiro Commit"``
- ``git branch``
- ``git push -u origin master``
- ``ls``
-```
+
+ git reset
+ git status
+ git add .
+ git status
+ git commit -m "Primeiro Commit"
+ git branch
+ git push -u origin master
+ ls
