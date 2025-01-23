@@ -34,9 +34,9 @@ git push -u origin master
 ### 
 ## CAPITULO 2 - Criando repositorio no GIT
 <img src="Img/Captura de tela 2025-01-22 112400.png" alt ="Entre na opção 'Repositorios' e clique 'New'" width="400">
+<p>
 
-<br>
-
+ <P>
 <img src="Img/Captura de tela 2025-01-22 112538.png" alt ="Siga as instruções e preencha conforme sua preferência" width="400">
 ###
 ###
@@ -44,12 +44,12 @@ git push -u origin master
 ## CAPITULO 3 - Subindo arquivos no GIT
 ###
 ```
- `git reset`
- `git status`
- `git add .`
- `git status
- `git commit -m "Primeiro Commit"``
- `git branch`
- `git push -u origin master`
- `ls`
+ ``git reset``
+ ``git status``
+ ``git add .``
+ ``git status
+ ``git commit -m "Primeiro Commit"``
+ ``git branch``
+ ``git push -u origin master``
+ ``ls``
 ```
