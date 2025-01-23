@@ -2,7 +2,10 @@
 # MANUAL DE UTILIZAÇÃO DO SISTEMA/SITE
 ## CAPITULO 1 - Configuração do git no computador
 ### Instalação do Git
-<p align="left">Primeiramente selecione o sistema operacional da sua maquina e depois faça o download</p>
+<p align="left">Primeiramente selecione o sistema operacional da sua maquina</p>
+<p><img src="Img/Captura de tela 2025-01-22 103507.png"> width="400"></p> 
+<br>
+<p align="left">E faça o download</p>
 <p><img src="Img/Captura de tela 2025-01-22 103825.png"  width="400"></p>
   <a href= "https://git-scm.com/downloads/win" 
   target="_blank">Download do GIT</a>
@@ -56,6 +59,7 @@ git push -u origin master
  git add .
  git status
  git commit -m "Primeiro Commit"
+ git push -u origin master
 
 
 ```
