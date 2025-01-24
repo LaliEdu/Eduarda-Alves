@@ -15,7 +15,9 @@
 ```
 
 git --version
-(A partir daqui voce ja deve ter uma conta criada no GitHub)
+         
+   A partir daqui voce ja deve ter uma conta criada no GitHub
+
 git config --global user.name "Nome de usuario"
 git config --global user.email "Email utilizado"
 ssh keygen (Criador de senha)
