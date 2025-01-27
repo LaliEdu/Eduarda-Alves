@@ -62,7 +62,7 @@ git push -u origin master
  git add .
  git status
  git commit -m "Primeiro Commit"
- git push -u origin master or git pull origin develop
+ git push -u origin master or git push origin develop
 ```
 
 ### CAPITULO 4 - Alterando MASTER para DEVELOP
