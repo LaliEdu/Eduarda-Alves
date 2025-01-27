@@ -82,12 +82,12 @@ Instalar Visual Code Studio
  
 git --version
 git config --global user.name "Nome de usuario"
-git config --global user.email "Email utilizado"
+git config --global user.email Email utilizado
 ssh keygen (Enter e digitar a senha duas vezes)
 cd .\.ssh
 ls
- cat .\pasta.pub
- git clone (+ codigo ssh do seu github)
+cat .\pasta.pub
+git clone (+ codigo ssh do seu github)
  (Entrar na pasta Docments e pasta com seu nome)
- code .
+code .
 ```
