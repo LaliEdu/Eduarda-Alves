@@ -74,7 +74,7 @@ git branch
 git pull origin master
 ```
 
-### CAPITULO 5 - Trabalhando com o mesmo repositorio em dispositivos doferentes 
+### CAPITULO 5 - Trabalhando com o mesmo repositório em dispositivos diferentes 
 ```
 Instalar GitHub
 Reiniciar computador
