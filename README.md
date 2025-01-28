@@ -32,11 +32,11 @@ cd .. (Sair da pasta)
 ### Comandos Administrativos do GIT no Windows
 
 ```
-git init
-git status
-git add index.html or git add .
-git commit -m "Mensagem do desenvolvedor" ex:"Update file README"
-git push -u origin master
+git init                                                           (Inicia o github no Windows)
+git status                                                         (Vizualiza o estado do diretorio de trabalho)
+git add index.html or git add .                                    (Adiciona todos os arquivos ou um por vez)
+git commit -m "Mensagem do desenvolvedor" ex:"Update file README"  (Dá um nome a atulização)
+git push -u origin master                                          (Sobe o arquivo ao github)
 
 ```
 
@@ -57,7 +57,6 @@ git push -u origin master
 ###
 
 ```
- git reset
  git status
  git add .
  git status
