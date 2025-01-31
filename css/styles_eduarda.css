@@ -113,6 +113,22 @@ form input {
     border-radius: 5px;
 }
 
+form select{
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #861e1e;
+    border-radius: 5px;
+    background-color: #f0e5ed;
+    color: #000000;  
+    transition: border-color 0.3s;
+}
+
+form select:focus{
+    border-color: #f8d7e6;
+    outline: none;
+}
+
+
 form button {
     padding: 10px;
     background-color: #db19ae;
