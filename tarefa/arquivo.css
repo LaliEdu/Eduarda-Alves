@@ -122,3 +122,20 @@ form button {
     cursor: pointer;
     font-size: 16px;
 }
+
+footer{
+    background-color: #910505;
+    color: #e2dada;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+a{
+    text-decoration: underline;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
