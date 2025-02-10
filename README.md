@@ -64,13 +64,19 @@ git push -u origin master                                          (Sobe o arqui
  git push -u origin master or git push origin develop
 ```
 
-### CAPITULO 4 - Alterando MASTER para DEVELOP
+### CAPITULO 4 - Alterando MASTER para DEVELOP (ou outra branch)
 
 ```
+git pull origin 'nome da branch sem aspas' (ex: eduarda.cine)
 git branch 
-git branch develop 
+git checkout 'nome da outra branch' (develop)
 git branch
-git pull origin master
+git merge eduarda.cine
+git push -u origin develop
+git merge eduarda.cine
+git checkout master
+git merge develop
+git push -u origin master
 ```
 
 ### CAPITULO 5 - Trabalhando com o mesmo repositório em dispositivos diferentes 
