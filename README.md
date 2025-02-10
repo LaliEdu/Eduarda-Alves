@@ -64,15 +64,13 @@ git push -u origin master                                          (Sobe o arqui
  git push -u origin master or git push origin develop
 ```
 
-### CAPITULO 4 - Alterando EDUARDA.CINE para DEVELOP (ou outra branch)
+### CAPITULO 4 - Alterando MASTER para DEVELOP
 
 ```
 git pull origin 'nome da branch sem aspas' (ex: eduarda.cine)
 git branch 
 git checkout 'nome da outra branch' (develop)
 git branch
-git merge eduarda.cine
-git push -u origin develop
 ```
 
 ### CAPITULO 5 - Envio de Arquivos de uma Branch para outra
@@ -83,7 +81,7 @@ git merge develop
 git push -u origin master
 ```
 
-### CAPITULO 6 - Trabalhando com o mesmo repositório em dispositivos diferentes 
+### CAPITULO 6 - Trabalhando com o mesmo repositório em dispositivos diferentes
 ```
 Instalar GitHub
 Reiniciar computador
