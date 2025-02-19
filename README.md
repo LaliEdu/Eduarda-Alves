@@ -21,6 +21,8 @@ git --version
 git config --global user.name "Nome de usuario"
 git config --global user.email "Email utilizado"
 ssh keygen (Criador de senha)
+(A primeira linha você pula, caso não queira mudar o nome da pasta)
+(A segunda você digita sua senha)
 ls (Ver pastas existentes)
 cd .\Nome da pasta\ (Entra na pasta em que está seu codigo)
 ls
@@ -41,8 +43,8 @@ git push -u origin master                                          (Sobe o arqui
 ```
 
 
-### 
-## CAPITULO 2 - Criando repositorio no GIT
+
+### CAPITULO 2 - Criando repositorio no GIT
 <p align="left">Entre na opção 'Repositorios' e clique 'New'</p>
 <p><img src="Img/Captura de tela 2025-01-22 112400.png" width="400"></p>
 
@@ -52,8 +54,19 @@ git push -u origin master                                          (Sobe o arqui
 <p><img src="Img/Captura de tela 2025-01-22 112538.png" width="400"></p>
 
 
+```
+cd .
+mkdir
+git init
+(codigo do git)
+cd ./.git/
+ls
+cat ./config
+cd . .
+code .
+```
 
-## CAPITULO 3 - Subindo arquivos no GIT
+## CAPITULO 3 - Subindo arquivos no GIT (Terminal do vscode)
 ###
 
 ```
